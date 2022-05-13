@@ -11,7 +11,9 @@ Python
 
 # Theory:
 
-
+A marginal distribution is a distribution of values for one variable that ignores a more extensive set of related variables in a dataset.
+The marginal mass function for X is found by summing over the appropriate column and the marginal mass function
+for Y can be found be summing over the appropriate row.
  
 # Procedure :
 
