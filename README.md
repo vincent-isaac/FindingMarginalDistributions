@@ -4,7 +4,7 @@
 
 To find marginal distributions and correation coefficient of joint probability mass funcition of two dimensional random variables
 
- ![image](https://user-images.githubusercontent.com/104613195/168221976-e8491439-02cc-4472-ac69-591bb13a459a.png)
+![image](https://user-images.githubusercontent.com/104613195/168222062-bb7dec1f-f115-4669-8b4c-58283af8ccf3.png)
 
 # Software required :  
 
