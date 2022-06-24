@@ -1,4 +1,6 @@
-# Marginal distributions and correation coefficient  
+### EX NO : 03
+### DATE  : 27.04.2022
+# <p align="center">Marginal distributions and correation coefficient </p> 
 
 # Aim : 
 
@@ -17,6 +19,16 @@ The marginal mass function for X is found by summing over the appropriate column
 for Y can be found be summing over the appropriate row.
 
 Correlation coefficients are indicators of the strength of the linear relationship between two different variables. The coefficient of correlation is measure of degree of realtionship betwen two variavbles. A linear correlation coefficient that is greater than zero indicates a positive relationship. A value that is less than zero signifies a negative relationship. Finally, a value of zero indicates no relationship between the two variables x and y.  
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 # Procedure :
@@ -68,9 +80,7 @@ print("Covariance Coefficient of Corelation:\t",Covariance_coeff.round(4))
 
 
 # Output : 
-![Capture7](https://user-images.githubusercontent.com/75234588/168966339-946c8009-311b-4bf1-a342-14bd7b474c2a.PNG)
-
+![image](https://user-images.githubusercontent.com/75235488/168961369-1cab8dc9-e532-4c91-bf85-d7ca0a2d5d19.png)
 
 # Result :
 marginal distributions and correation coefficient of joint probability mass funcition of two dimensional random variables is found using python program.
-
